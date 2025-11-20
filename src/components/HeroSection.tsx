@@ -46,7 +46,7 @@ const HeroSection = () => {
               size="lg"
               className="bg-gradient-hero hover:opacity-90 text-background font-semibold text-lg px-8 glow-primary group"
             >
-              Começar Agora
+              Contratar Agora
               <ArrowRight className="ml-2 w-5 h-5 group-hover:translate-x-1 transition-transform" />
             </Button>
             <Button
