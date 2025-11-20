@@ -114,7 +114,7 @@ const ContactSection = () => {
                 </div>
                 <div>
                   <h3 className="text-lg font-semibold text-foreground mb-2">E-mail</h3>
-                  <p className="text-muted-foreground">contato@vortexassessoria.com.br</p>
+                  <p className="text-muted-foreground">assessoriavorttex@gmail.com</p>
                 </div>
               </div>
             </Card>
@@ -126,7 +126,7 @@ const ContactSection = () => {
                 </div>
                 <div>
                   <h3 className="text-lg font-semibold text-foreground mb-2">Telefone</h3>
-                  <p className="text-muted-foreground">+55 (11) 9999-9999</p>
+                  <p className="text-muted-foreground">+55 (94) 98406-9269</p>
                 </div>
               </div>
             </Card>
@@ -138,7 +138,7 @@ const ContactSection = () => {
                 </div>
                 <div>
                   <h3 className="text-lg font-semibold text-foreground mb-2">Localização</h3>
-                  <p className="text-muted-foreground">São Paulo, SP - Brasil</p>
+                  <p className="text-muted-foreground">São Félix do Xingu - PA</p>
                 </div>
               </div>
             </Card>
