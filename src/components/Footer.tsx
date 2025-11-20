@@ -1,4 +1,5 @@
 import { Instagram, Linkedin, Facebook } from "lucide-react";
+import vortexLogo from "@/assets/vortex-logo.png";
 
 const Footer = () => {
   return (
@@ -69,9 +70,12 @@ const Footer = () => {
         </div>
 
         <div className="pt-8 border-t border-border/30 text-center">
-          <p className="text-muted-foreground">
-            © 2024 Vortex Assessoria. Todos os direitos reservados.
-          </p>
+          <div className="flex flex-col items-center gap-3">
+            <img src={vortexLogo} alt="Vortex Logo" className="h-10 w-auto" />
+            <p className="text-muted-foreground">
+              © 2025 Todos os direitos reservados.
+            </p>
+          </div>
         </div>
       </div>
     </footer>
