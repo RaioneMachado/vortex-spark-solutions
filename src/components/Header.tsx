@@ -20,7 +20,7 @@ const Header = () => {
             onClick={() => scrollToSection("home")}
             className="flex items-center gap-2 hover:opacity-80 transition-opacity"
           >
-            <img src={vortexLogo} alt="Vortex Logo" className="h-12 w-auto" />
+            <img src={vortexLogo} alt="Vortex Logo" className="h-10 md:h-12 w-auto" />
           </button>
 
           {/* Desktop Menu */}

@@ -36,7 +36,7 @@ const services = [
 
 const ServicesSection = () => {
   return (
-    <section id="services" className="py-24 relative">
+    <section id="services" className="py-12 md:py-24 relative">
       {/* Background Glow */}
       <div className="absolute inset-0 bg-gradient-glow opacity-30"></div>
 
